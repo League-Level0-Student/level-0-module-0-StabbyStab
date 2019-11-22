@@ -30,6 +30,10 @@ win3.setSpeed(10);
 win4.setSpeed(10);
 win3.turn(180);
 win4.turn(180);
+win.setPenWidth(50);
+win2.setPenWidth(50);
+win3.setPenWidth(50);
+win4.setPenWidth(50);
         // 5. Do everything below here 4 times
 for (int i = 0; i < 4; i++) {
 	
