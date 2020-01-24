@@ -18,6 +18,10 @@ Robot win3=new Robot();
 Robot win4=new Robot();
 //Robot win5=new Robot();
         // 3. Put the robot's pen down
+win.hide();
+win2.hide();
+win3.hide();
+win4.hide();
 win.penDown();
 win2.penDown();
 win3.penDown();
